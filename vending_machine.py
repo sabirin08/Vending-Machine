@@ -1,7 +1,7 @@
 """
 
 Program Description:
-This program implements an object of the VendingMachine class and allows the user to enter mutliple commands as input until a stop word is detected.
+This program implements an object of the VendingMachine class and allows the user to enter multiple commands (buy, check inventory, restock) as input until a stop word is detected.
 
 Author: Sabirin Mohamed
 """
