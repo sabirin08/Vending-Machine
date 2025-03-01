@@ -1,2 +1,2 @@
-# Vending-Machine
-This project simulates a vending machine that allows users to purchase drinks, restock inventory, and check stock levels through an interactive command-based interface.
+# Vending Machine
+This OOP Python program handles real-world functionalities like purchasing and restocking items, interactive user input with multiple command options, and error handling for out-of-stock items and invalid selections.
